@@ -1,0 +1,1 @@
+2025-02-23 18:50:39.686 | INFO     | rdagent.utils.env:prepare:202 - Building the image from dockerfile: /opt/anaconda3/envs/rdagent/lib/python3.12/site-packages/rdagent/scenarios/qlib/docker
